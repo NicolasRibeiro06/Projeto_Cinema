@@ -9,14 +9,12 @@ Sistema desenvolvido para o gerenciamento de uma biblioteca de filmes, permitind
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Como Executar](#-como-executar)
-- [Capturas de Tela](#-capturas-de-tela)
-- [Autor](#-autor)
-- [Licença](#-licença)
+- [Sobre o Projeto]
+- [Funcionalidades]
+- [Tecnologias Utilizadas]
+- [Capturas de Tela]
+- [Autor]
+- [Licença]
 
 ---
 
@@ -32,7 +30,7 @@ O **Projeto Cinema** tem como objetivo simular e automatizar uma biblioteca de f
 - [x] **Catálogo de Filmes:** Listagem de filmes e futuros lançamentos (sinopse,  classificação indicativa e gênero).
 - [x] **Painel Administrativo:** Cadastro, edição e remoção de filmes.
 
-*(Marque com `[x]` o que já está pronto e com `[ ]` o que ainda será implementado.)*
+
 
 ---
 
@@ -40,53 +38,15 @@ O **Projeto Cinema** tem como objetivo simular e automatizar uma biblioteca de f
 
 As seguintes ferramentas e tecnologias foram utilizadas na construção do projeto:
 
-- **Front-end:** `[Ex: HTML5, CSS3, JavaScript / React / Angular]`
-- **Back-end:** `[Ex: Java (Spring Boot) / Python (Flask/Django) / Node.js / C#]`
-- **Banco de Dados:** `[Ex: MySQL / PostgreSQL / SQLite / MongoDB]`
-- **Outras Ferramentas:** `[Ex: Git, GitHub, Docker, Figma]`
-
----
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-
-Antes de começar, você precisará ter instalado em sua máquina:
-- [Git](https://git-scm.com)
-- `[Ex: Node.js v18+ / JDK 17+ / Python 3.10+]`
-
-### Passo a passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/NicolasRibeiro06/Projeto_Cinema.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd Projeto_Cinema
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   # Exemplo para Node.js:
-   npm install
-
-   # Exemplo para Python:
-   pip install -r requirements.txt
-   ```
-
-4. **Execute a aplicação:**
-   ```bash
-   # Substitua pelo comando que inicia o seu projeto:
-   npm start
-   ```
+- **Front-end:** `[ HTML5 e CSS3]`
+- **Back-end:** `[ PHP ]`
+- **Banco de Dados:** `[ MySQL ]`
+- **Outras Ferramentas:** `[ GitHub e Figma]`
 
 ---
 
 ## 📸 Capturas de Tela
 
-> *Dica: Crie uma pasta `assets` ou `docs` no repositório, suba prints da tela inicial e da seleção de assentos e substitua os caminhos abaixo.*
 
 | Tela Inicial |  |
 | :---: | :---: |
