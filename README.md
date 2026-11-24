@@ -42,15 +42,30 @@ As seguintes ferramentas e tecnologias foram utilizadas na construção do proje
 - **Back-end:** `[ PHP ]`
 - **Banco de Dados:** `[ MySQL ]`
 - **Outras Ferramentas:** `[ GitHub e Figma]`
+---
+## Figma-Protótipo
+
+
+https://github.com/user-attachments/assets/9c0a10f0-e207-414e-b6c7-b7e99aad3d30
+
+
+
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Gravação da tela 
+>*atenção não está finalizado*
 
 
-| Tela Inicial |  |
-| :---: | :---: |
-| <img width="1911" height="868" alt="image" src="https://github.com/user-attachments/assets/8cd312cc-63aa-463b-9e00-38dd6a224f61" />
+https://github.com/user-attachments/assets/4ff26593-8d94-48a7-a895-d142e5d2dd8e
+
+
+
+
+
+
+
+
 
 
 ---
