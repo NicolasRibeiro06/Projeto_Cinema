@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/4ff26593-8d94-48a7-a895-d142e5d2dd8e
 
 ## 👨‍💻 Autores
 
-Desenvolvido por **Nicolas Ribeiro, Gabriel Martins**.
+Desenvolvido por **Nicolas Ribeiro, Gabriel Martins, Riquelme Reis, Ana Julia, Maria Vilela**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/NicolasRibeiro06](https://github.com/NicolasRibeiro06))
 
